@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(91, 92, 92);
+    color:rgb(72, 238, 211);
+    
+}
+.h1{
+    margin-top: 0px;
+}
+.up{
+    height: 100px;
+    width: 1536px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30PX;
+    color: white;
+    align-items: center;
+    background-color: rgb(37, 22, 90);
+
+   
+    
+}
+.up a{
+    color: white;
+
+}
+#se{
+    height: 5px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: medium;
+}
+ .mid{
+    height: 330px;
+    width: 1536px;
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/sthaneka/Alphonsa/GW/NOV/BAU/GW_HERO_PC_1_2x._CB542130280_.jpg);
+    background-size: cover;
+}
+/* .mid2{
+    display: flex;
+    justify-content: space-evenly;
+
+   height: 500px;
+   width: 420px;
+   margin-bottom: 500px;
+   
+    background-size: cover;
+    transition: all;
+    transition-duration: (0.3s);
+    transition-timing-function: ease-in-out;
+    
+    gap: 70px;
+    margin-left:30px;
+    border: 2px solid black;
+
+
+}   
+.img{
+    border-radius: 50px;
+    border: 2px solid black;
+} */
+.a{
+    border: 2px solid black;
+    border-radius: 50px;
+    
+    margin: 25px;
+    
+    /* transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; */
+    transition: all;
+        transition-duration: 0.3s;
+        transition-timing-function: ease-in;
+
+}
+.a:hover{
+    transform: scale(1.1);
+}
+#CO{
+    color: rgb(191, 255, 17);
+    font-size: xx-large;
+}
+
+
+
+
